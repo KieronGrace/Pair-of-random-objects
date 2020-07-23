@@ -1,1 +1,1 @@
-# Pair-of-random-variables
+# Pair-of-random-objects
