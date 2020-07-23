@@ -1,14 +1,11 @@
 //PairTest.java demonstrates Pair generic class
-//CSIS 312-D01
 
 package genericpair;
 
 public class PairTest {
 
       public static void main(String[] args) {
-      //output student and assignment
-      System.out.printf("Kieron Roberson – Assignment 07%n%n");
-      
+            
       //create pair with F Integer and S String
       Pair intString = new Pair(3, "Elinor");
       
